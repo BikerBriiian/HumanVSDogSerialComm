@@ -9,4 +9,10 @@ An Arduino Project that used a model trained using Teachable Machine to recogniz
 - [TensorFlow Keras](https://www.tensorflow.org/api_docs/python/tf/keras)
 - [Arduino Software](https://docs.arduino.cc/)
   
+## Project Build
 
+1. Train the AI Models
+   - Access [Teachable Machine](https://teachablemachine.withgoogle.com/train/image)
+   - Create image models with three classes.
+   - Order does not matter:
+       
