@@ -14,7 +14,7 @@ An Arduino Project that used a model trained using Teachable Machine to recogniz
   - **Keras**: Latest
   - **OpenCV**: Latest
   - **PySerial**: Latest
--Use `Python -m pip install ` in the terminal to install python packages.
+- Use `Python -m pip install ` in the terminal to install python packages.
   
   
 ## Project Build
