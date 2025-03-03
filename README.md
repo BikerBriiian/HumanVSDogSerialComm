@@ -29,9 +29,14 @@ An Arduino Project that used a model trained using Teachable Machine to recogniz
    - Export the model in Tensorflow/Keras format and save it in the same directory as the rest of the project.
 
 2. Upload Arduino Code and prepare Python code
-   - Download the project folder and upload the Arduino code using the IDE.
+   - Download the project folder and upload the Arduino code using Arduino IDE.
+   - The code reads the serial monitor sent by the Python code. It will turn the green LED ON if the Python code detects a dog and red for a human. If neither appears both lights will remain off.
        - **Note**: In the Arduino code LED Pins are assigned already but it can be any port as long as it matches the port to which you have the LEDs connected.
-   -  Once the code in the Arduino has successfully uploaded you can open the Python code and attempt to connect the Arduino by finding the Com port and baud rate (It is not the same for everyone).
+   - Once the code in the Arduino has successfully uploaded you can open the Python code and attempt to connect the Arduino by finding the Com port and baud rate (It is not the same for everyone).
    ![image](https://github.com/user-attachments/assets/65efba80-168d-457e-9c87-5c6fae119fa5)
+   - The labels text file and .h5 file should be in the same directory as the rest of the project files so no need to change that unless you have those files in a different directory.
+
+3. Setting the Arduino Hardware
+   - The Arduino code is set as
 
  
