@@ -37,6 +37,9 @@ An Arduino Project that used a model trained using Teachable Machine to recogniz
    - The labels text file and .h5 file should be in the same directory as the rest of the project files so no need to change that unless you have those files in a different directory.
 
 3. Setting the Arduino Hardware
-   - The Arduino code is set as
+   - The Arduino code has two assigned LED variables 6 and 12 but these values can be changed however just make sure to upload it to the Arduino.
+   - This is one example of how to connect the LEDs to the Arduino. You will need a red LED for humans and a green LED for dogs.
+     ![image](https://github.com/user-attachments/assets/7c44e0eb-755f-40c4-b15f-b7c5190d5c3e)
+
 
  
