@@ -42,7 +42,7 @@ An Arduino Project that used a model trained using Teachable Machine to recogniz
      ![image](https://github.com/user-attachments/assets/7c44e0eb-755f-40c4-b15f-b7c5190d5c3e)
 
 4. Video Tutorial
-   https://youtu.be/JwD1C7D0PyU
+   - https://youtu.be/JwD1C7D0PyU
    
 
  
