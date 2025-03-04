@@ -41,5 +41,7 @@ An Arduino Project that used a model trained using Teachable Machine to recogniz
    - This is one example of how to connect the LEDs to the Arduino. You will need a red LED for humans and a green LED for dogs.
      ![image](https://github.com/user-attachments/assets/7c44e0eb-755f-40c4-b15f-b7c5190d5c3e)
 
+4. Video Tutorial
+   
 
  
